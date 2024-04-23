@@ -1,2 +1,0 @@
-# businesscard
-Digital Business Card
